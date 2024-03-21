@@ -1,0 +1,24 @@
+{
+  "name": "live-score-board",
+  "version": "1.0.0",
+  "description": "read me",
+  "main": "index.js",
+  "dependencies": {
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asadjaved61/live-score-board.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asadjaved61/live-score-board/issues"
+  },
+  "homepage": "https://github.com/Asadjaved61/live-score-board#readme"
+}
